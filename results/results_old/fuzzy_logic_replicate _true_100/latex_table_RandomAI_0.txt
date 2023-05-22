@@ -1,0 +1,12 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{RandomAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{100}\%    &      0.204             &     0.009       &           0.331        &     0.031        \\ 
+\hline
+\end{tabular}
+\end{table}

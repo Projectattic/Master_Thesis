@@ -1,0 +1,30 @@
+\begin{table}
+\centering
+\begin{tabular}{|l|l|l|l|l|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{LDTAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{10}\%    &      0.07             &     0.008       &           0.327        &     0.028        \\ 
+\hline
+\textbf{20}\%    &      0.068             &     0.008       &           0.335        &     0.021        \\ 
+\hline
+\textbf{30}\%    &      0.071             &     0.008       &           0.326        &     0.014        \\ 
+\hline
+\textbf{40}\%    &      0.072             &     0.009       &           0.329        &     0.022        \\ 
+\hline
+\textbf{50}\%    &      0.069             &     0.008       &           0.32        &     0.025        \\ 
+\hline
+\textbf{60}\%    &      0.072             &     0.012       &           0.329        &     0.028        \\ 
+\hline
+\textbf{70}\%    &      0.064             &     0.007       &           0.333        &     0.022        \\ 
+\hline
+\textbf{80}\%    &      0.065             &     0.007       &           0.329        &     0.011        \\ 
+\hline
+\textbf{90}\%    &      0.063             &     0.008       &           0.327        &     0.018        \\ 
+\hline
+\textbf{100}\%    &      0.054             &     0.008       &           0.329        &     0.018        \\ 
+\hline
+\end{tabular}
+\end{table}

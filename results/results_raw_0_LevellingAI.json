@@ -1,0 +1,68 @@
+{
+    "10": {
+        "average_relocation_ratio": 0.018621731989080587,
+        "stdev_relocation_ratios": 0.005114917333858851,
+        "average_max_block_utilization": 0.1993333333333333,
+        "stdev_max_block_utilization": 0.004919098582484148
+    },
+    "20": {
+        "average_relocation_ratio": 0.020065546846095645,
+        "stdev_relocation_ratios": 0.004967240294549659,
+        "average_max_block_utilization": 0.19866666666666669,
+        "stdev_max_block_utilization": 0.006126243889817878
+    },
+    "30": {
+        "average_relocation_ratio": 0.01861718724714559,
+        "stdev_relocation_ratios": 0.005579175514876707,
+        "average_max_block_utilization": 0.20266666666666663,
+        "stdev_max_block_utilization": 0.007166451331820937
+    },
+    "40": {
+        "average_relocation_ratio": 0.01967730729466359,
+        "stdev_relocation_ratios": 0.005386430430243093,
+        "average_max_block_utilization": 0.19933333333333336,
+        "stdev_max_block_utilization": 0.00913546879604199
+    },
+    "50": {
+        "average_relocation_ratio": 0.01755303981766839,
+        "stdev_relocation_ratios": 0.005932023538434629,
+        "average_max_block_utilization": 0.19733333333333333,
+        "stdev_max_block_utilization": 0.004661372658534012
+    },
+    "60": {
+        "average_relocation_ratio": 0.018130537448018895,
+        "stdev_relocation_ratios": 0.0060449756506731995,
+        "average_max_block_utilization": 0.19733333333333333,
+        "stdev_max_block_utilization": 0.0064406118871953065
+    },
+    "70": {
+        "average_relocation_ratio": 0.020443819580459564,
+        "stdev_relocation_ratios": 0.005554453073808875,
+        "average_max_block_utilization": 0.19933333333333336,
+        "stdev_max_block_utilization": 0.006629526173411687
+    },
+    "80": {
+        "average_relocation_ratio": 0.017946065992157794,
+        "stdev_relocation_ratios": 0.0052347935425623,
+        "average_max_block_utilization": 0.1993333333333333,
+        "stdev_max_block_utilization": 0.004919098582484148
+    },
+    "90": {
+        "average_relocation_ratio": 0.019866506213255336,
+        "stdev_relocation_ratios": 0.005680838851721769,
+        "average_max_block_utilization": 0.2013333333333333,
+        "stdev_max_block_utilization": 0.006126243889817879
+    },
+    "100": {
+        "average_relocation_ratio": 0.01842411952326945,
+        "stdev_relocation_ratios": 0.005626420250962401,
+        "average_max_block_utilization": 0.2,
+        "stdev_max_block_utilization": 0.007027283689263066
+    },
+    "110": {
+        "average_relocation_ratio": 0.019579579964740936,
+        "stdev_relocation_ratios": 0.005548133122779509,
+        "average_max_block_utilization": 0.198,
+        "stdev_max_block_utilization": 0.006324555320336759
+    }
+}

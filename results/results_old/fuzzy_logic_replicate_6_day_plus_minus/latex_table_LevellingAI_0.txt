@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{LevellingAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{10}\%    &      0.089             &     0.012       &           0.302        &     0.008        \\ 
+\hline
+\textbf{20}\%    &      0.089             &     0.01       &           0.298        &     0.008        \\ 
+\hline
+\textbf{30}\%    &      0.087             &     0.009       &           0.297        &     0.007        \\ 
+\hline
+\textbf{40}\%    &      0.089             &     0.01       &           0.299        &     0.008        \\ 
+\hline
+\textbf{50}\%    &      0.084             &     0.007       &           0.302        &     0.011        \\ 
+\hline
+\textbf{60}\%    &      0.087             &     0.006       &           0.303        &     0.006        \\ 
+\hline
+\textbf{70}\%    &      0.087             &     0.007       &           0.305        &     0.01        \\ 
+\hline
+\textbf{80}\%    &      0.088             &     0.006       &           0.3        &     0.008        \\ 
+\hline
+\textbf{90}\%    &      0.085             &     0.008       &           0.302        &     0.008        \\ 
+\hline
+\textbf{100}\%    &      0.089             &     0.01       &           0.303        &     0.012        \\ 
+\hline
+\textbf{110}\%    &      0.088             &     0.009       &           0.301        &     0.005        \\ 
+\hline
+\end{tabular}
+\end{table}

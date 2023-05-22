@@ -1,0 +1,12 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{FuzzyLogicAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{100}\%    &      0.022             &     0.009       &           0.269        &     0.013        \\ 
+\hline
+\end{tabular}
+\end{table}

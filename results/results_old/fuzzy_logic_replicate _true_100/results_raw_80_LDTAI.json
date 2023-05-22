@@ -1,0 +1,8 @@
+{
+    "100": {
+        "average_relocation_ratio": 0.45114988686887997,
+        "stdev_relocation_ratios": 0.012925492998889825,
+        "average_max_block_utilization": 0.8666666666666666,
+        "stdev_max_block_utilization": 0.01962613525850633
+    }
+}

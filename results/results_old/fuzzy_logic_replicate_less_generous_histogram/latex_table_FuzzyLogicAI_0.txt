@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{FuzzyLogicAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{10}\%    &      0.053             &     0.012       &           0.276        &     0.013        \\ 
+\hline
+\textbf{20}\%    &      0.048             &     0.012       &           0.275        &     0.011        \\ 
+\hline
+\textbf{30}\%    &      0.053             &     0.011       &           0.275        &     0.012        \\ 
+\hline
+\textbf{40}\%    &      0.047             &     0.014       &           0.275        &     0.011        \\ 
+\hline
+\textbf{50}\%    &      0.044             &     0.009       &           0.274        &     0.011        \\ 
+\hline
+\textbf{60}\%    &      0.042             &     0.01       &           0.275        &     0.012        \\ 
+\hline
+\textbf{70}\%    &      0.039             &     0.01       &           0.274        &     0.011        \\ 
+\hline
+\textbf{80}\%    &      0.033             &     0.009       &           0.274        &     0.011        \\ 
+\hline
+\textbf{90}\%    &      0.037             &     0.008       &           0.274        &     0.011        \\ 
+\hline
+\textbf{100}\%    &      0.03             &     0.007       &           0.274        &     0.011        \\ 
+\hline
+\textbf{110}\%    &      0.022             &     0.006       &           0.274        &     0.011        \\ 
+\hline
+\end{tabular}
+\end{table}

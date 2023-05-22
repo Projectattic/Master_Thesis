@@ -1,0 +1,12 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{LevellingAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{100}\%    &      0.084             &     0.013       &           0.291        &     0.013        \\ 
+\hline
+\end{tabular}
+\end{table}

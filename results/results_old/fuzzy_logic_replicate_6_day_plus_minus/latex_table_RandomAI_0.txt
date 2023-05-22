@@ -1,0 +1,32 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|} 
+\hline
+                  & \multicolumn{4}{c|}{\textbf{RandomAI}}                                             \\ 
+\hline
+\textbf{Accuracy} & \textbf{avg. reloc. r.} & \textbf{stdev} & \textbf{avg. max block u.} & \textbf{stdev}  \\ 
+\hline
+\textbf{10}\%    &      0.214             &     0.011       &           0.338        &     0.022        \\ 
+\hline
+\textbf{20}\%    &      0.207             &     0.015       &           0.329        &     0.017        \\ 
+\hline
+\textbf{30}\%    &      0.221             &     0.016       &           0.341        &     0.011        \\ 
+\hline
+\textbf{40}\%    &      0.212             &     0.011       &           0.341        &     0.034        \\ 
+\hline
+\textbf{50}\%    &      0.214             &     0.01       &           0.341        &     0.02        \\ 
+\hline
+\textbf{60}\%    &      0.214             &     0.013       &           0.343        &     0.023        \\ 
+\hline
+\textbf{70}\%    &      0.205             &     0.009       &           0.335        &     0.024        \\ 
+\hline
+\textbf{80}\%    &      0.206             &     0.014       &           0.337        &     0.022        \\ 
+\hline
+\textbf{90}\%    &      0.213             &     0.016       &           0.339        &     0.02        \\ 
+\hline
+\textbf{100}\%    &      0.212             &     0.011       &           0.338        &     0.018        \\ 
+\hline
+\textbf{110}\%    &      0.203             &     0.01       &           0.341        &     0.016        \\ 
+\hline
+\end{tabular}
+\end{table}
